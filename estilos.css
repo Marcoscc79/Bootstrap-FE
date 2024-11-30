@@ -1,0 +1,13 @@
+.navbar {
+    background: tomato;
+}
+.btn {
+    font-weight: 900;
+}
+.btn-primary {
+    padding: 30px;
+    background: brown;
+}
+#navbar-example2 {
+    background: blueviolet;
+}
